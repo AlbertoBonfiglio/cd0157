@@ -29,3 +29,5 @@ htmlcov/
 
 .github/**
 **/.vscode/
+**/.env_file
+**/*.env
